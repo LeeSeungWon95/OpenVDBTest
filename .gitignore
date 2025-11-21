@@ -1,0 +1,21 @@
+# 빌드 폴더들
+/build/
+bin/
+out/
+
+# CMake 관련
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio 관련 (혹시 나중에 VS로 열 경우 대비)
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# 큰 데이터 파일들
+*.csv
+*.vdb
